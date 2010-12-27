@@ -7,6 +7,9 @@ Free home automation system mainly for controlling solar panels, pumps, valves a
 Platform
 ARM Cortex-M3 based MCU, tested with TI Stellaris LM3S6395
 
+Development Environment
+Rowley CrossWorks
+
 Features
 Ethernet interface with WEb server
 OLED 128x64 Display, Rotary encoder user interface
