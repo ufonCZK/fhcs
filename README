@@ -1,0 +1,20 @@
+Free Home Control System
+Author: ufonCZK@gmail.com
+
+Purpose
+Free home automation system mainly for controlling solar panels, pumps, valves and gas heaters with OpenTherm protocol
+
+Platform
+ARM Cortex-M3 based MCU, tested with TI Stellaris LM3S6395
+
+Features
+Ethernet interface with WEb server
+OLED 128x64 Display, Rotary encoder user interface
+microSD card storeage with 4GB available
+modular power interfaces (optotriacs, relays, temp-sensors etc)
+
+Status
+Under developemnt
+
+Release
+v0.0.1 Working concept
