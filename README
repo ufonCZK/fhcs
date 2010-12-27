@@ -1,5 +1,5 @@
 Free Home Control System
-Author: ufonCZK@gmail.com
+Authors: ufonCZK@gmail.com
 
 Purpose
 Free home automation system mainly for controlling solar panels, pumps, valves and gas heaters with OpenTherm protocol
@@ -20,4 +20,4 @@ Status
 Under developemnt
 
 Release
-v0.0.1 Working concept
+v0.0.1 Working concept, initial commit
